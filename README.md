@@ -1,2 +1,2 @@
 # MysqlPSLib
-This PowerShell Module attempt to provide a convenient methods for working with MySQL.
+This PowerShell Module attempt to provide convenient methods for working with MySQL.
